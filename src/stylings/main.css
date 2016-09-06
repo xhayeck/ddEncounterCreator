@@ -1,0 +1,43 @@
+/* bundle.css */
+
+body {
+  background-color: #F5f1de
+}
+
+.party {
+  float: left;
+  width: 30%
+}
+
+h5 {
+  margin: 0px;
+}
+
+.inputTitle {
+  display: inline-block;
+  margin: 2px;
+}
+
+.input {
+  margin: 2px;
+}
+
+.Trivial {
+  color: blue
+}
+
+.Easy {
+  color: green
+}
+
+.Medium {
+  color: purple
+}
+
+.Hard {
+  color: orange
+}
+
+.Deadly {
+  color: #bb0a1e
+}
