@@ -17,8 +17,8 @@ Second, fill in the number of monsters and the amount of XP that each one gives 
 Finally, press **How Hard Is This Fight Going To Be?**  to get a difficulty rating for the encounter given your party.
 
 ##Technologies Used
--React
--Gulp
+*React
+*Gulp
 
 ##Inspiration
 I took the general concept and layout of this from the site: *http://dhmholley.co.uk/encounter-calculator-5th/*. Thanks for helping with the encounter calculations! (This site uses jQuery to basically do the same thing.)
