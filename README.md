@@ -1,7 +1,7 @@
 # Dungeons & Dragons 5ed. Encounter Creator
 
 ##Synopsis
-I wanted to learn the React framework, so I build a simple SPA that helps Dungeons & Dragons DMs design a combat encounter.
+I build a SPA using the React framework that helps Dungeons & Dragons DMs design a combat encounter.
 
 ##Instructions to run the app
 First run "npm install" to install the dependencies required.
